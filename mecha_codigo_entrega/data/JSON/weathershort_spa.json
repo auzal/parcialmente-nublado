@@ -1,0 +1,33 @@
+{
+  "description": "A list of phrases describing weather conditions. This list includes all possible phrases that may be provided by the US National Weather Service's feeds of current weather conditions.",
+  "source": "http://w1.weather.gov/xml/current_obs/weather.php",
+  "conditions": [
+    "Mayormente nublado",
+    "Nublado",
+    "Neblina",
+    "Niebla",
+    "Niebla helada",
+    "Niebla parcial",
+    "Humo",
+    "Lluvia helada",
+    "Cristales de hielo",
+    "Granizo",
+    "Lluvias granizadas",
+    "Lluvia de granizo",
+    "Lluvia de nieve",
+    "Fuerte lluvia de nieve",
+    "Lluvia",
+    "Niebla de nieve",
+    "Niebla pesada",
+    "Llovizna",
+    "Llovizna pesada",
+    "Llovizna de Niebla",
+    "Lluvia Pesada",
+    "Niebla de lluvia",
+    "Polvo",
+    "Arena",
+    "Tormenta de polvo",
+    "Tormenta de arena",
+    "Bruma"
+  ]
+}
